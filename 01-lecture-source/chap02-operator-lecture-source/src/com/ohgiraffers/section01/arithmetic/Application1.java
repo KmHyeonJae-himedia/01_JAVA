@@ -27,11 +27,11 @@ public class Application1 {
 
         int num1 = 20;
         int num2 = 7;
-        System.out.println("num1 + num2 = " + (num1 + num2));
-        System.out.println("num1 - num2 = " + (num1 - num2));
-        System.out.println("num1 * num2 = " + (num1 * num2));
-        System.out.println("num1 / num2 = " + (num1 / num2));
-        System.out.println("num1 % num2 = " + (num1 % num2));
+        System.out.println("num1 + num2 = " + (num1 + num2)); // 27
+        System.out.println("num1 - num2 = " + (num1 - num2)); // 13
+        System.out.println("num1 * num2 = " + (num1 * num2)); // 140
+        System.out.println("num1 / num2 = " + (num1 / num2)); // 2
+        System.out.println("num1 % num2 = " + (num1 % num2)); // 6
 
     }
 }
